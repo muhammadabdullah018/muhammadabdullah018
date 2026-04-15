@@ -1,4 +1,4 @@
-## Yoooo Baloch here 👋
+## Yoooo Abdullah here 👋
 
 
 **AI Automation Engineer** | **Founder @ Sazaan Digital** | **6th Semester AI Student @ Air University**
