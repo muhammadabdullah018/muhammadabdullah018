@@ -1,5 +1,5 @@
 ## Yoooo Abdullah here 👋
-**AI Automation Engineer · Founder @ Sazaan Digital · AI Student, Air University**
+**AI Automation Engineer · Founder @Sazaan Studio · AI Student, Air University**
 
 I build AI systems, automation pipelines, and web solutions.
 Focused on agentic AI, LLM applications, and automation that ships.
@@ -33,3 +33,6 @@ Focused on agentic AI, LLM applications, and automation that ships.
 
 📎 [LinkedIn](
 https://www.linkedin.com/in/abdullahmushtaqbaloch) · ✉️ abdullahmushtaq@email.com
+
+Sazaan Studio
+https://sazaanstudio.space/#home
