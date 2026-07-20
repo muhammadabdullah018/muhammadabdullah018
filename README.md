@@ -200,22 +200,7 @@ Started as a creative digital agency (Framer design, CRM builds, business automa
 
 ---
 
-### GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah018&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah018&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=muhammadabdullah018&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E2E8F0" width="70%"/>
-
-</div>
-
-### GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah018&theme=discord&no-frame=true&row=2&column=4"/>
-</div>
 
 ### Contribution Activity
 
