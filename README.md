@@ -1,269 +1,307 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Muhammad%20Abdullah%20Mushtaq&fontSize=40&fontColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Muhammad%20Abdullah%20Mushtaq&fontSize=38&fontColor=E2E8F0&fontAlignY=35&desc=AI%20Automation%20Engineer&descAlignY=55&descSize=18&descColor=E2E8F0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6366F1&height=3&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer+in+training;Founder+%40+Sazaan+Studios;Final-year+AI+student%2C+Air+University;Building+voice+agents+that+book+appointments" alt="Typing SVG" />
+<br>
 
-![Air University](https://img.shields.io/badge/BS%20Artificial%20Intelligence-Air%20University-8B5CF6?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Rawalpindi%2FIslamabad%2C%20Pakistan-6366F1?style=flat-square&logoColor=white)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Building+agentic+AI%2C+RAG%2C+and+voice+systems;Founder+%40+Sazaan+Studios;Final-year+AI+student%2C+Air+University" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Air%20University%20Islamabad-BS%20Artificial%20Intelligence%20(2023%20to%202027)-0D1117?style=for-the-badge&labelColor=6366F1&color=0D1117" alt="Academic status" />
+<img src="https://img.shields.io/badge/Location-Rawalpindi%20%2F%20Islamabad%2C%20Pakistan-0D1117?style=for-the-badge&labelColor=8B5CF6&color=0D1117" alt="Location" />
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=framer&logoColor=white)](https://abdullah-baloch.framer.website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmushtaqbaloch/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadabdullah018)
-<!-- ADD: preferred contact email for the button -->
-[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+<!-- ADD: preferred contact email for the button, then uncomment the line below -->
+<!-- [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadabdullah018&color=8b5cf6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/muhammadabdullah018?style=flat-square&color=8b5cf6&logoColor=white)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadabdullah018&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/muhammadabdullah018?label=Followers&style=flat-square&color=6366F1&logoColor=white)
 
 </div>
 
----
+<br>
 
-### About
+## About
 
-Final-year AI student at Air University Islamabad, building the parts of agentic AI that don't get the demo-day applause: retrieval that doesn't hallucinate, automations that don't break at 2am, and voice agents that actually book the appointment. Founder of Sazaan Studios, an AI automation agency for US small businesses. Comfortable moving from a 63-float hand-landmark classifier to a Discord bot that watches Google Classroom so I don't have to, because production AI is 20% model and 80% plumbing. Right now most of my time goes into an AI voice receptionist for US HVAC companies, from cold-call scripts down to the webhook logic underneath.
+AI Automation Engineer working on the parts of agentic AI that don't get the demo-day applause: retrieval that doesn't hallucinate, automations that don't break at 2am, and voice agents that actually book the appointment. Final-year BS Artificial Intelligence student at Air University Islamabad (2023 to 2027) and founder of Sazaan Studios <!-- CONFIRM: feature the agency name prominently, or keep this generic ("Founder, AI Automation Agency") for now. Flagged because this hasn't been decided as fully public yet. -->, an AI automation agency serving US-based small businesses. Comfortable moving from a 63-float hand-landmark classifier to a Discord bot that watches Google Classroom so I don't have to, because production AI is 20% model and 80% plumbing.
 
-**Open to:** agentic AI engineering roles or internships, freelance AI automation projects, and collaboration on computer vision or n8n-based automation work.
+**Open to:** agentic AI engineering roles or internships, freelance AI automation projects, and collaboration on computer vision or n8n-based automation projects.
 
----
+<br>
 
-### Tech Stack
+## Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![C++20](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-**AI / ML & Agentic**
-![LangChain](https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-A855F7?style=flat-square&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-6366F1?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark)
+
+**AI/ML & Agentic**
+
+![AI/ML](https://skillicons.dev/icons?i=opencv&theme=dark)
+
+<!-- skillicons.dev has no icons for MediaPipe, scikit-learn, LangChain, LangGraph, Ollama, Qdrant, or Chroma, using themed shields.io badges instead so nothing gets dropped -->
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=mediapipe&logoColor=white&labelColor=8B5CF6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=8B5CF6)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=white&labelColor=6366F1)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=white&labelColor=6366F1)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logoColor=white&labelColor=A855F7)
+![Qdrant](https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logoColor=white&labelColor=A855F7)
+![Chroma](https://img.shields.io/badge/Chroma-0D1117?style=flat-square&logoColor=white&labelColor=A855F7)
 
 **Backend & Data**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logoColor=white)
+
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,supabase&theme=dark)
+
+<!-- n8n, pandas, NumPy, and matplotlib have no skillicons.dev entries -->
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logoColor=white&labelColor=6366F1)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=white&labelColor=8B5CF6)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=white&labelColor=8B5CF6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logoColor=white&labelColor=8B5CF6)
 
 **Frontend & Design**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+![Frontend](https://skillicons.dev/icons?i=nextjs,figma&theme=dark)
+
+<!-- Framer has no skillicons.dev entry -->
+![Framer](https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=white&labelColor=A855F7)
 
 **DevOps & Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Also familiar with:** Discord API, Google Workspace APIs (Classroom, Sheets, Calendar), Twilio, Vapi
+![DevOps](https://skillicons.dev/icons?i=docker,vercel,githubactions,discord&theme=dark)
 
----
+<!-- Railway, Streamlit, Google Workspace APIs, Twilio, and Vapi have no skillicons.dev entries -->
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logoColor=white&labelColor=6366F1)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=white&labelColor=6366F1)
+![Google Workspace APIs](https://img.shields.io/badge/Google%20Workspace%20APIs-0D1117?style=flat-square&logo=googleworkspace&logoColor=white&labelColor=8B5CF6)
+![Twilio](https://img.shields.io/badge/Twilio-0D1117?style=flat-square&logo=twilio&logoColor=white&labelColor=A855F7)
+![Vapi](https://img.shields.io/badge/Vapi-0D1117?style=flat-square&logoColor=white&labelColor=A855F7)
 
-### AI / ML & Agentic Engineering Focus
+**Currently leveling up:** Docker, for self-hosting and deployment.
+
+<br>
+
+## AI/ML & Agentic Engineering Focus
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Computer Vision | Applied, project-shipped | MediaPipe hand-landmark extraction + scikit-learn classification pipelines (ASL Fingerspelling Recognition) |
-| RAG / Agentic Systems | Building | LangChain, LangGraph, Qdrant, Chroma for retrieval and multi-agent tool use |
-| Workflow Automation | Applied, production | n8n orchestration wired to Gemini, Google Sheets, Discord webhooks, and Google Classroom API |
-| Voice AI | Building, client-facing | Twilio + Vapi + n8n + Google Calendar for an AI voice receptionist product (HVAC vertical) |
-| Classical ML / Explainability | Applied | XGBoost + SHAP for interpretable risk prediction |
+| Agentic Automation | Shipped in production | n8n workflows power the Universal AI Chatbot Widget's Gemini-backed reply pipeline and the Classroom Notifier's polling and routing logic |
+| Voice AI | Building | AI voice receptionist for US HVAC companies, built on Twilio, Vapi, n8n, and Google Calendar, first target market San Antonio, TX |
+| RAG & Agent Orchestration | Active R&D | LangChain and LangGraph for multi-agent patterns, Qdrant and Chroma for retrieval, Ollama for local inference |
+| Computer Vision | Shipped | Real-time ASL fingerspelling recognition: MediaPipe HandLandmarker extracts 63-float hand-joint vectors, a scikit-learn classifier predicts the letter |
+| Evaluation & ML Rigor | Applied | Leakage-aware evaluation on the ASL classifier via a custom leave-one-burst-out group split: 89.6% honest accuracy versus 98.6% on a naive random split |
 
----
-
-### Featured Projects
-
-<details>
-<summary><strong>ASL Fingerspelling Recognition</strong></summary>
 <br>
 
-Real-time static ASL fingerspelling recognition from a webcam. Holding a letter locks it in, and words spell themselves out on screen.
+## Featured Projects
 
-**Pipeline:** webcam frame &rarr; MediaPipe HandLandmarker extracts 21 hand-joint coordinates (63 floats) &rarr; normalized for translation/scale/mirror invariance &rarr; scikit-learn classifier predicts one of 24 letters &rarr; hold-to-commit state machine.
+<details>
+<summary><b>ASL Fingerspelling Recognition</b>, real-time static ASL recognition from a webcam</summary>
+<br>
 
-**Design decisions:**
-- Landmarks, not pixels: a 63-number input trains on a CPU in seconds on a few hundred frames per letter, instead of needing a GPU and thousands of images.
-- J and Z are excluded on purpose. They're motion signs, and a single-frame classifier structurally can't represent them, that would need an LSTM/GRU over sequences, a different project.
+Holding a letter locks it in and words spell themselves out on screen. Pipeline: webcam frame, MediaPipe HandLandmarker extracts 21 hand joint coordinates (63 floats), normalized for translation, scale, and mirror invariance, a scikit-learn classifier predicts one of 24 letters, and a hold-to-commit state machine confirms it.
 
-**Results:** trained on 14,400 samples (600 per letter across 24 letters, 4 recording bursts each). Naive random-split accuracy was 98.6%, but inflated (leaky, near-duplicate frames land on both sides of the split). The honest number, using a custom leave-one-burst-out group split, is **89.6%**. 19 of 24 letters score at least 90% on the honest split, 12 are at 100%.
+Landmarks were used instead of pixels on purpose: a 63-number input trains on a CPU in seconds on a few hundred frames per letter, instead of needing a GPU and thousands of images. J and Z are excluded on purpose too, they are motion signs and a single-frame classifier structurally can't represent them (that needs an LSTM or GRU over sequences, a different project).
+
+Trained on 14,400 samples (600 per letter across 24 letters, 4 recording bursts each). Naive random-split accuracy hit 98.6%, but it's inflated: leaky, near-duplicate frames land on both sides of the split. The honest number, using a custom leave-one-burst-out group split, is 89.6%. 19 of 24 letters score at least 90% on the honest split, 12 hit 100%.
 
 | | |
 |---|---|
-| Stack | Python, MediaPipe, scikit-learn, OpenCV, Pillow, pandas, NumPy, matplotlib |
-| Repo | https://github.com/muhammadabdullah018/ASL-HandRecognition |
+| **Stack** | Python, MediaPipe, scikit-learn, OpenCV, Pillow, pandas, NumPy, matplotlib |
+| **Highlights** | 63-float landmark input instead of raw pixels, leakage-aware group-split evaluation, hold-to-commit state machine |
+| **Repo** | [ASL-HandRecognition](https://github.com/muhammadabdullah018/ASL-HandRecognition) |
+| **Live Demo** | Local webcam app (no hosted demo) |
 
 </details>
 
 <details>
-<summary><strong>Universal AI Chatbot Widget (Brew & Batter demo)</strong></summary>
+<summary><b>Universal AI Chatbot Widget</b>, white-label embeddable AI chat widget for small businesses</summary>
 <br>
 
-A white-label, embeddable AI chat widget for small businesses. Swap one config file (`config.js`) and it becomes a different company's widget, no code changes.
-
-**Architecture:** frontend widget (HTML/CSS/JS) posts to an n8n Cloud webhook, which cleans the input, sends it to Google Gemini 2.5 Flash with the company's own data as context, formats the reply, logs the full conversation (timestamp, company, message, reply, source) to Google Sheets, and returns the reply to the widget. Deployed on Vercel with CORS headers configured for cross-site embedding.
+Swap one config file (`config.js`) and it becomes a different company's widget, no code changes. The frontend widget posts to an n8n Cloud webhook, which cleans the input, sends it to Google Gemini 2.5 Flash with the company's own data as context, formats the reply, logs the full conversation (timestamp, company, message, reply, source) to Google Sheets, and returns the reply to the widget. Deployed on Vercel with CORS headers configured for cross-site embedding. The live demo is branded for a fictional coffee shop, Brew & Batter.
 
 | | |
 |---|---|
-| Stack | JavaScript, HTML, CSS, n8n, Google Gemini API, Google Sheets, Vercel |
-| Repo | https://github.com/muhammadabdullah018/chatbot-widgetv |
-| Live Demo | https://chatbot-widgetv.vercel.app |
+| **Stack** | JavaScript, HTML, CSS, n8n, Google Gemini API, Google Sheets, Vercel |
+| **Highlights** | Single config-file swap for multi-tenant white-labeling, full conversation logging to Sheets, CORS-ready cross-site embed |
+| **Repo** | [chatbot-widgetv](https://github.com/muhammadabdullah018/chatbot-widgetv) |
+| **Live Demo** | [chatbot-widgetv.vercel.app](https://chatbot-widgetv.vercel.app) |
 
 </details>
 
 <details>
-<summary><strong>Huffman Project Zipper</strong></summary>
+<summary><b>Huffman Project Zipper</b>, full-stack lossless file compression engine</summary>
 <br>
 
-A full-stack, lossless file compression engine. The core algorithm is a greedy Huffman coding implementation in C++20 using a min-heap: O(n log n) to build the tree, O(m log n) to encode or decode. A Python/Flask + Gunicorn layer wraps the compiled C++ binary in a web interface, so people can compress files from a browser instead of a terminal. Deployed on Railway via Nixpacks.
+A greedy Huffman coding implementation in C++20 using a min-heap, O(n log n) to build the tree and O(m log n) to encode or decode. A Python and Flask layer, served with Gunicorn, wraps the compiled C++ binary in a web interface, so files can be compressed from a browser instead of a terminal. Deployed on Railway via Nixpacks.
 
 | | |
 |---|---|
-| Stack | C++20, Python, Flask, Gunicorn, HTML/CSS/JS, Railway |
-| Repo | https://github.com/muhammadabdullah018/huffman-encoding |
-| Live Demo | https://huffman-encoding-production.up.railway.app |
+| **Stack** | C++20, Python, Flask, Gunicorn, HTML/CSS/JS, Railway |
+| **Highlights** | O(n log n) tree construction, O(m log n) encode/decode, C++ core wrapped by a Python web layer |
+| **Repo** | [huffman-encoding](https://github.com/muhammadabdullah018/huffman-encoding) |
+| **Live Demo** | [huffman-encoding-production.up.railway.app](https://huffman-encoding-production.up.railway.app) |
 
 </details>
 
 <details>
-<summary><strong>Classroom Notifier</strong></summary>
+<summary><b>Classroom Notifier</b>, autonomous academic agent for Google Classroom</summary>
 <br>
 
-An autonomous academic agent, built out of frustration with checking Google Classroom manually. Polls the Google Classroom API every 15 minutes across every active course, uses Gemini AI to write a one-line summary of each new assignment, and routes notifications into per-category Discord channels (assignments, lab tasks, quizzes, general updates) through webhooks. Pings instantly when a grade is posted (color-coded by score band), runs a three-stage urgency system (warnings at 24h, 12h, then every 30 minutes inside the final 3h before a deadline), and sends a 9am daily digest of everything due. Hosted free on Railway, runs continuously without a laptop.
+Built out of frustration with checking Google Classroom manually. Polls the Google Classroom API every 15 minutes across every active course, uses Gemini AI to write a one-line summary of each new assignment, and routes notifications into per-category Discord channels (assignments, lab tasks, quizzes, general updates) through webhooks. It pings instantly when a grade is posted (color-coded by score band), runs a three-stage urgency system (warnings at 24 hours, 12 hours, then every 30 minutes inside the final 3 hours before a deadline), and sends a 9am daily digest of everything due. Hosted free on Railway, runs continuously without a laptop.
 
 | | |
 |---|---|
-| Stack | Python, Google Classroom API, Google OAuth 2.0, Gemini AI, Discord Webhooks, Railway |
-| Repo | https://github.com/muhammadabdullah018/classroom-notifier |
+| **Stack** | Python, Google Classroom API, Google OAuth 2.0, Gemini AI, Discord Webhooks, Railway |
+| **Highlights** | 15-minute polling loop, three-stage deadline urgency escalation, color-coded grade alerts, always-on hosting |
+| **Repo** | [classroom-notifier](https://github.com/muhammadabdullah018/classroom-notifier) |
+| **Live Demo** | Runs continuously on Railway (no public UI) |
 
 </details>
 
 <details>
-<summary><strong>Diabetes Risk Prediction App</strong></summary>
+<summary><b>Diabetes Risk Prediction App</b>, explainable diabetes risk assessment from health data</summary>
 <br>
 
-A Streamlit web app that gives a personalized diabetes risk assessment from user-entered health data. Uses an XGBoost classifier and SHAP for visual, per-prediction explainability, so a user sees which inputs drove their result, not just a black-box score.
+A Streamlit web app that gives a personalized diabetes risk assessment from user-entered health data. Uses an XGBoost classifier paired with SHAP for visual, per-prediction explainability, so a user sees which inputs drove their result instead of a black-box score.
 
 | | |
 |---|---|
-| Stack | Python, XGBoost, Streamlit, SHAP, pandas |
-| Repo | https://github.com/JangoBlud/Diabetes-Prediction-Model |
-| Live Demo | https://diabetes-prediction-model-proz.streamlit.app |
+| **Stack** | Python, XGBoost, Streamlit, SHAP, pandas |
+| **Highlights** | XGBoost classifier, SHAP-based per-prediction explainability |
+| **Repo** | [Diabetes-Prediction-Model](https://github.com/JangoBlud/Diabetes-Prediction-Model) |
+| **Live Demo** | [diabetes-prediction-model-proz.streamlit.app](https://diabetes-prediction-model-proz.streamlit.app) |
 
 </details>
 
----
+<br>
 
-### Experience
+## Experience
 
-**UI/UX AI Intern** &middot; FlyRank &middot; Remote &middot; Started July 2026
-Working on AI-assisted UI/UX workflows in a remote product team setting.
-`UI/UX` `AI Tooling` `Remote Collaboration`
+**UI/UX AI Intern, FlyRank** (remote)
+July 2026 to present. Working on UI/UX for AI-driven product surfaces.
+`UI/UX` `AI Product`
 
-**Web Development Intern** &middot; GAO Tek Inc. &middot; Remote <!-- CONFIRM: exact start/end dates -->
-Minimum 10 hours/week over 30 weeks of web development work in a remote internship structure.
-`Web Development` `Remote Work`
+**Web Development Intern, GAO Tek Inc.** (remote)
+<!-- CONFIRM: exact start/end dates -->
+Minimum 10 hours/week over 30 weeks.
+`Web Development`
 
-**Power Platform Intern** &middot; Systems Limited &middot; May 2025 to August 2025
-Hands-on work with Microsoft's Power Platform in an enterprise internship setting.
-`Power Platform` `Enterprise Tooling` `Automation`
+**Power Platform Intern, Systems Limited**
+May 2025 to August 2025. Worked with Microsoft Power Platform tooling.
+`Power Platform` `Low-Code`
 
-**Founder** &middot; Sazaan Studios &middot; Ongoing
-Started as a creative digital agency (Framer design, CRM builds, business automation) before evolving into agentic AI products. Current focus: an AI voice receptionist product for US HVAC companies, first target market San Antonio, TX, built on Twilio, Vapi, n8n, and Google Calendar.
-`Agency Ops` `Voice AI` `n8n` `Twilio` `Vapi` `Client Delivery`
+**Founder, Sazaan Studios** <!-- CONFIRM: feature the agency name prominently, or keep this generic ("Founder, AI Automation Agency") for now. Flagged because this hasn't been decided as fully public yet. -->
+Ongoing. Started as a creative digital agency (Framer design, CRM builds, business automation), then evolved into agentic AI products. Current focus is an AI voice receptionist product for US HVAC companies, first target market San Antonio, TX, built on Twilio, Vapi, n8n, and Google Calendar.
+`Agentic AI` `Voice AI` `n8n` `Twilio` `Vapi`
 
----
+<br>
 
-### Certifications
+## Certifications
 
 **DeepLearning.AI**
-![CNN Specialization](https://img.shields.io/badge/Convolutional%20Neural%20Networks%20Specialization-0A66C2?style=flat-square&logo=deeplearningdotai&logoColor=white)
+![CNN Specialization](https://img.shields.io/badge/Convolutional%20Neural%20Networks%20Specialization-0D1117?style=flat-square&logo=deeplearningdotai&logoColor=white&labelColor=6366F1)
 
 **Microsoft**
-![Azure AI Essentials](https://img.shields.io/badge/Azure%20AI%20Essentials-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Essentials](https://img.shields.io/badge/Azure%20AI%20Essentials-0D1117?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=8B5CF6)
 
 **Model Context Protocol**
-![MCP Certification](https://img.shields.io/badge/MCP%20Certification-8B5CF6?style=flat-square&logoColor=white)
+![MCP Certification](https://img.shields.io/badge/MCP%20Certification-0D1117?style=flat-square&logoColor=white&labelColor=A855F7)
 
-<!-- ADD: any additional certifications (AWS / Cisco / Oracle / NPTEL / etc.) or delete unused provider groups. Do not keep the generic provider groups from a template if they don't apply. -->
+<!-- ADD: any additional certifications (AWS / Cisco / Oracle / NPTEL / etc.) or delete unused provider groups -->
 
-<!-- ADD: LeetCode / GeeksforGeeks / HackerRank / CodeChef handles here, or delete the "Coding Profiles" section entirely if none apply yet. -->
+<!-- ADD: LeetCode / GeeksforGeeks / HackerRank / CodeChef handles here to populate a Coding Profiles section, or leave this omitted if none apply yet -->
 
----
+<br>
 
-### GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah018&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah018&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah018&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=muhammadabdullah018&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=muhammadabdullah018&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E2E8F0" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah018&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" alt="Top Languages" width="49%" />
 
 </div>
 
-### GitHub Trophies
+<br>
+
+## 3D Contribution Graph
+
+<!-- Requires the yoshi389111/github-profile-3d-contrib GitHub Action to be configured once on the muhammadabdullah018/muhammadabdullah018 repo, it writes these SVGs to the profile-3d-contrib folder on push. Without that workflow run, the image below will show as broken. A second, last-365-days variant needs the action's date-range output enabled and its own generated file path added here once it exists. -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah018&theme=discord&no-frame=true&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/muhammadabdullah018/muhammadabdullah018/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
-### Contribution Activity
+<br>
+
+## GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah018&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=E2E8F0" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah018&theme=discord&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-<!-- Contribution snake animation requires a one-time GitHub Actions workflow (using Platane/snk or equivalent) that generates and commits the SVG to an "output" branch. It will not render from a static link alone until that workflow is set up. -->
+<br>
+
+## Contribution Snake
+
+<!-- Requires a one-time GitHub Actions workflow (Platane/snk) committed to the muhammadabdullah018/muhammadabdullah018 repo to generate and push this SVG to an `output` branch. Until that workflow runs at least once, the image below will show as broken. -->
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/muhammadabdullah018/muhammadabdullah018/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadabdullah018/muhammadabdullah018/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
----
+<br>
 
-### Currently Building / Learning / Exploring
+## Currently
 
 ```yaml
-building:
-  - AI voice receptionist for US HVAC companies (Twilio, Vapi, n8n, Google Calendar)
+building: "AI voice receptionist for US HVAC companies (Twilio, Vapi, n8n, Google Calendar)"
 learning:
-  - Docker, for self-hosting and deployment
-  - LangGraph multi-agent patterns and structured tool use
+  - "Docker, for self-hosting and deployment"
+  - "LangGraph multi-agent patterns and structured tool use"
 exploring:
-  - Improved RAG techniques
-  - Instagram DM automation via Meta's Graph API
+  - "Improved RAG techniques"
+  - "Instagram DM automation via Meta's Graph API"
 open_to:
-  - Agentic AI engineering roles or internships
-  - Freelance AI automation projects
-  - Collaboration on computer vision or n8n-based automation projects
+  - "Agentic AI engineering roles or internships"
+  - "Freelance AI automation projects"
+  - "Collaboration on computer vision or n8n-based automation projects"
 ```
 
-<!-- ADD: any competition placements, hackathon wins, or formal recognitions here, or omit this section entirely. -->
+<!-- ADD: any competition placements, hackathon wins, or formal recognitions here to populate an Achievements section, or leave this omitted if none apply yet -->
 
----
+<br>
 
-### Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmushtaqbaloch/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadabdullah018)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=framer&logoColor=white)](https://abdullah-baloch.framer.website)
-
----
+## Connect
 
 <div align="center">
 
-Production AI is 20% model and 80% plumbing. I build the plumbing.
+<!-- ADD: preferred contact email for the button, then uncomment the line below -->
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmushtaqbaloch/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadabdullah018)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=framer&logoColor=white)](https://abdullah-baloch.framer.website)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+Building the plumbing behind the demos, one automation at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=150&section=footer" width="100%" />
 
 </div>
